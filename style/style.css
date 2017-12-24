@@ -1,0 +1,26 @@
+.SearchStyle {
+    width: 40em;
+    marginLeft: 40px;
+}
+
+.Style {
+    width: 700px;
+    height: 100px;
+    borderRadius: 3%;
+    color: black;
+    padding: 2px 2px 2px 2px;
+    margin: 20px 20px 20px 40px;
+}
+
+.Style1 {
+    width: 700px;
+    height: 350px;
+    opacity: 0.9;
+    padding: 2px 2px 2px 2px;
+    margin: 20px 20px 20px 40px;
+    borderRadius: 0px;
+}
+.list-group-item
+{
+    background-color: beige;
+}
